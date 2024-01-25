@@ -1,4 +1,4 @@
-# Seq-Analysis-Pipline
+# Seq-Analysis-Pipeline
 ## Program Summary and Interconnection
 
 ## 1. create_paired_aaseqs.py
